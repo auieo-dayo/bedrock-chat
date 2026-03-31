@@ -1,21 +1,14 @@
 {
-  "name": "wrapper_chat",
+  "name": "bedrockchat",
   "version": "1.0.0",
   "main": "main.js",
-  "bin": "main.js",
-  "pkg": {
-    "assets": [
-      "src/*",
-      "defaultAddon/**/*"
-    ]
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "type": "module",
-  "author": "",
-  "license": "ISC",
+  "author": "auieo-dayo",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "discord.js": "^14.25.1",
